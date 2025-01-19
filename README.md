@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Chaudhary</h1>
 <h3 align="center">I'm a Final-year BCA student with a strong foundation in full-stack web development and proficiency in programming languages like C++, Java, and JavaScript. Passionate about creating innovative solutions and eager to apply my skills in real-world projects.</h3>
 <div align="center">
-    <img alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1s4v46nWuqH6tIEWqVFz4oRSsIJpZjmjig&s">
+    <img alt="Coding" width="400" src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/200w.gif?cid=6c09b952qdrpxr2x93nqhmvvpgupv7r8zcabzjiezgg7a5vx&ep=v1_gifs_search&rid=200w.gif&ct=g)">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-chaudhary86&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-chaudhary86" /> </p>
